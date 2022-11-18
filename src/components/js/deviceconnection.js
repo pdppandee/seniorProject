@@ -8,7 +8,7 @@ function DeviceConnection() {
     let navigate = useNavigate()
 
     return (
-        <div id="outer-container">
+        <div id="fullscreen">
             <div id= "page-wrap" align="center">
                 {/* <Header /> */}
                 <br />
